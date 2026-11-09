@@ -1,0 +1,22 @@
+{
+  "name": "vite-vue-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@videojs/dash-video": "^10.3.0",
+    "@videojs/hlsjs-video": "^10.3.0",
+    "@videojs/html": "^10.3.0",
+    "@videojs/youtube-video": "^10.3.0",
+    "vue": "^3.5.44"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.10",
+    "vite": "^8.3.6"
+  }
+}
