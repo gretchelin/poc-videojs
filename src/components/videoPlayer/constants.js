@@ -1,11 +1,16 @@
 export const PlayerControlType = {
-  TIMESLIDER: 'timeslider',
+  TIMESLIDER: 'time-slider',
   PLAY: 'play',
   TIMESTAMP: 'timestamp',
   VOLUME: 'volume',
+  VOLUME_SLIDER: 'volume-slider',
   FULLSCREEN: 'fullscreen',
   SEEK_BW: 'seek-bw',
   SEEK_FW: 'seek-fw',
   SETTINGS: 'settings',
   PIP: 'pip',
+  CAPTION: 'cc',
+  QUALITY: 'quality',
+  LIVE: 'live',
+  DURATION: 'duration',
 };
